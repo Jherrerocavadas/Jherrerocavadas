@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/C(PIC)-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B(Arduino)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/HTML5(Jinja2)-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Microcontroladores
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
