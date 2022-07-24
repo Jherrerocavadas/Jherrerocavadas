@@ -1,7 +1,7 @@
 ##### Boas vindas em fase beta :D
 
 ## Olá! Sou o Johann👋
-#### Sou programador com ênfase em back-end (mexo um pouquinho com front-end também, mas acho não tanto para me enquadrar em full-stack ainda).
+#### Sou programador com ênfase em back-end (mexo um pouquinho com front-end também, mas acho que não tanto para me enquadrar em full-stack ainda).
 
 ## <!-- Linha de divisão -->
 ### Experiências:
@@ -17,7 +17,7 @@
 ![PIC](https://img.shields.io/badge/PIC-FA7343?style=for-the-badge&logo=PIC&logoColor=white)
 
 #### Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/Jherrerocavadas/Marketplace_Gamersplace)
 
 #### Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
