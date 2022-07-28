@@ -6,39 +6,44 @@
 ## <!-- Linha de divisão -->
 ### Experiências:
 #### Linguagens de programação
-![](https://img.shields.io/badge/C%23(Unity)-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/C(PIC)-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B(Arduino)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/HTML5(Jinja2)-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![](https://img.shields.io/badge/C%23(Unity)-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Jherrerocavadas/Last_Hope)
+[![](https://img.shields.io/badge/C(PIC)-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![](https://img.shields.io/badge/C%2B%2B(Arduino)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Jherrerocavadas/Irrigadora_Automatica)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jherrerocavadas/Sistema_CRUD)
+[![](https://img.shields.io/badge/HTML5(Jinja2)-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Jherrerocavadas/Marketplace_Gamersplace)
 
 #### Microcontroladores
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![PIC](https://img.shields.io/badge/PIC-FA7343?style=for-the-badge&logo=PIC&logoColor=white)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/Jherrerocavadas/Irrigadora_Automatica)
+[![PIC](https://img.shields.io/badge/PIC-FA7343?style=for-the-badge&logo=PIC&logoColor=white)]()
 
 #### Frameworks
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/Jherrerocavadas/Marketplace_Gamersplace)
 
 #### Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 #### Desenvolvimento de jogos
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/Jherrerocavadas/Last_Hope)
 
 #### Nuvem
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](http://gamesplace.herokuapp.com/)
 
 <!-- ##### |-----|  Python: Mediano  |-----|  C++ (Arduino): Mediano  |-----|  C# (Unity): Básico  |-----|  SQL(MySQL e PostgreSQL): Básico  |-----| -->
 
 ## <!-- Linha de divisão -->
 ### Estudando:
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jherrerocavadas/Sistema_CRUD)
 
 
 ## <!-- Linha de divisão -->
 ### Estou trabalhando atualmente em:
-##### [Marketplace - Gamersplace](https://github.com/Jherrerocavadas/Marketplace-Gamersplace) (Parceria com [Gabriel Vieira](https://github.com/vieiracodes/))
+<!-- ##### [Marketplace - Gamersplace](https://github.com/Jherrerocavadas/Marketplace-Gamersplace) (Parceria com [Gabriel Vieira](https://github.com/vieiracodes/)) -->
+ ##### [Sistema CRUD - Python e Tkinter](https://github.com/Jherrerocavadas/Sistema_CRUD)
+ 
+ <!-- Planejamentos -->
+ <!-- ##### [Relógio e Alarme - C++ e Arduino](https://github.com/Jherrerocavadas/<INSERIR_REPOSITORIO_AQUI>) -->
+ <!-- ##### [Portfólio Online - Python e Flask](https://github.com/Jherrerocavadas/<INSERIR_REPOSITORIO_AQUI>) -->
 
 
 ## <!-- Linha de divisão -->
