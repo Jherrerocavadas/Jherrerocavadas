@@ -1,5 +1,3 @@
-##### Boas vindas em fase beta :D
-
 ## Olá! Sou o Johann👋
 #### Sou programador com ênfase em back-end (mexo um pouquinho com front-end também, mas acho que não tanto para me enquadrar em full-stack ainda).
 
@@ -9,8 +7,17 @@
 [![](https://img.shields.io/badge/C%23(Unity)-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Jherrerocavadas/Last_Hope)
 [![](https://img.shields.io/badge/C(PIC)-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![](https://img.shields.io/badge/C%2B%2B(Arduino)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Jherrerocavadas/Irrigadora_Automatica)
+
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Jherrerocavadas/Sistema_CRUD)
-[![](https://img.shields.io/badge/HTML5(Jinja2)-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Jherrerocavadas/Marketplace_Gamersplace)
+<!-- Em aprendizado ainda
+[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+-->
+<!-- ##### Web -->
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Jherrerocavadas/Projeto_SAE)
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Jherrerocavadas/Projeto_SAE)
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Jherrerocavadas/Projeto_SAE)
+
+
 
 #### Microcontroladores
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/Jherrerocavadas/Irrigadora_Automatica)
@@ -40,6 +47,7 @@
 ### Estou trabalhando atualmente em:
 <!-- ##### [Marketplace - Gamersplace](https://github.com/Jherrerocavadas/Marketplace-Gamersplace) (Parceria com [Gabriel Vieira](https://github.com/vieiracodes/)) -->
  ##### [Sistema CRUD - Python e Tkinter](https://github.com/Jherrerocavadas/Sistema_CRUD)
+ ##### [Projeto de site para Alunos de DMD da Fatec Carapicuíba- Python e Flask](https://github.com/Jherrerocavadas/Projeto_SAE)
  
  <!-- Planejamentos -->
  <!-- ##### [Relógio e Alarme - C++ e Arduino](https://github.com/Jherrerocavadas/<INSERIR_REPOSITORIO_AQUI>) -->
