@@ -1,5 +1,5 @@
 ## Olá! Sou o Johann👋
-#### Sou programador com ênfase em back-end (mexo um pouquinho com front-end também, mas acho que não tanto para me enquadrar em full-stack ainda).
+#### Sou programador com ênfase em back-end Java (mexo um pouquinho com front-end também, mas acho que não tanto para me enquadrar em full-stack ainda).
 
 <div align="center">
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Jherrerocavadas&theme=midnight-purple">
@@ -27,6 +27,7 @@
 #### Frameworks
 [![Flask](Badges/Flask.png)](https://github.com/Jherrerocavadas/Marketplace_Gamersplace)
 [![React-native](Badges/React_Native.png)](https://github.com/Jherrerocavadas/PediuOnde)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Jherrerocavadas/SAE_API)
 
 #### Banco de dados
 [![MySQL](Badges/MySQL.png)]()
@@ -35,20 +36,20 @@
 
 #### Nuvem
 [![Heroku](Badges/Heroku.png)](http://gamesplace.herokuapp.com/)
+<!-- [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]() --> <!-- EM BREVE -->
 
 
 ## <!-- Linha de divisão -->
 ### Estudando:
-[![Java](Badges/Java.png)](https://github.com/Jherrerocavadas/Separador_de_Enderecos_-_Projeto_PwC)
-<!-- [![React-native](Badges/React_Native.png)](https://github.com/Jherrerocavadas/PediuOnde) -->
-<!-- [![MongoDB](Badges/MongoDB.png)](https://github.com/Jherrerocavadas/PediuOnde-API) -->
+[![JPA/Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/Jherrerocavadas/SAE_API)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Jherrerocavadas/Projeto_Siga_React)
+
 
 
 ## <!-- Linha de divisão -->
 ### Estou trabalhando atualmente em:
-<!-- ##### [Marketplace - Gamersplace](https://github.com/Jherrerocavadas/Marketplace-Gamersplace) (Parceria com [Gabriel Vieira](https://github.com/vieiracodes/)) -->
- <!-- ##### [Sistema CRUD - Python e Tkinter](https://github.com/Jherrerocavadas/Sistema_CRUD) -->
- <!-- ##### [Projeto de site para Alunos de DMD da Fatec Carapicuíba- Python e Flask](https://github.com/Jherrerocavadas/Projeto_SAE) -->
+ ##### [Projeto de site para alunos universitários - React](https://github.com/Jherrerocavadas/Projeto_Siga_React)
+ ##### [API para o projeto de site para alunos universitários - Java Spring](https://github.com/Jherrerocavadas/SAE_API)
  ##### Em breve, atualizações  😃
 
  <!-- Planejamentos -->
@@ -60,7 +61,7 @@
 ## <!-- Linha de divisão -->
 ### Contatos e Redes:
 [![](Badges/Linkedin.png)](https://www.linkedin.com/in/jherrerocavadas/)
-[![](Badges/Gmail.png)](mailto:jherrerocavadas@gmail.com?Subject=contato%20Linkedin)
+[![](Badges/Gmail.png)](mailto:jherrerocavadas@gmail.com?Subject=contato%20Github)
 
 <!--
 **Jherrerocavadas/Jherrerocavadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
