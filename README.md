@@ -1,12 +1,11 @@
 ## Olá! Sou o Johann👋
-#### Sou programador com ênfase em back-end Java (mexo um pouquinho com front-end também, mas acho que não tanto para me enquadrar em full-stack ainda).
+#### Sou desenvolvedor com ênfase em back-end Java e framework Spring Boot sobretudo atuando no desenvolvimento de APIs REST e processos automatizados em lote.
+Estou em um aprendizado constante, buscando sempre evoluir como desenvolvedor de software, construindo soluções cada vez mais impactantes e significativas aos usuários, com qualidade e integridade.
 
 <div align="center">
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Jherrerocavadas&theme=midnight-purple">
 <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jherrerocavadas&layout=compact&theme=midnight-purple">
 </div>
-<!-- ![GitHub_Stats](https://github-readme-stats.vercel.app/api?username=Jherrerocavadas&theme=midnight-purple) -->
-<!-- ![Linguagens_mais_usadas_GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Jherrerocavadas&theme=midnight-purple) -->
 
 ## <!-- Linha de divisão -->
 ### Experiências:
@@ -27,7 +26,9 @@
 #### Frameworks
 [![Flask](Badges/Flask.png)](https://github.com/Jherrerocavadas/Marketplace_Gamersplace)
 [![React-native](Badges/React_Native.png)](https://github.com/Jherrerocavadas/PediuOnde)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Jherrerocavadas/Projeto_Siga_React)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Jherrerocavadas/SAE_API)
+[![JPA/Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/Jherrerocavadas/SAE_API)
 
 #### Banco de dados
 [![MySQL](Badges/MySQL.png)]()
@@ -36,44 +37,21 @@
 
 #### Nuvem
 [![Heroku](Badges/Heroku.png)](http://gamesplace.herokuapp.com/)
-<!-- [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]() --> <!-- EM BREVE -->
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 
 
 ## <!-- Linha de divisão -->
 ### Estudando:
-[![JPA/Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/Jherrerocavadas/SAE_API)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Jherrerocavadas/Projeto_Siga_React)
-
-
+##### No momento, aprimorando meus conhecimentos em tecnologias nas quais já tenho experiência.
 
 ## <!-- Linha de divisão -->
 ### Estou trabalhando atualmente em:
- ##### [Projeto de site para alunos universitários - React](https://github.com/Jherrerocavadas/Projeto_Siga_React)
- ##### [API para o projeto de site para alunos universitários - Java Spring](https://github.com/Jherrerocavadas/SAE_API)
+ ##### [Gerenciador de investimentos](https://github.com/Jherrerocavadas)
+
  ##### Em breve, atualizações  😃
 
- <!-- Planejamentos -->
- <!-- ##### [Relógio e Alarme - C++ e Arduino](https://github.com/Jherrerocavadas/<INSERIR_REPOSITORIO_AQUI>) -->
- <!-- ##### [Portfólio Online - Python e Flask](https://github.com/Jherrerocavadas/<INSERIR_REPOSITORIO_AQUI>) -->
- <!-- ##### [Aplicativo de compra de alimentos - PediuOnde?](https://github.com/Jherrerocavadas/PediuOnde) -->
- <!-- ##### [API do PediuOnde?](https://github.com/Jherrerocavadas/PediuOnde-API) -->
 
 ## <!-- Linha de divisão -->
 ### Contatos e Redes:
 [![](Badges/Linkedin.png)](https://www.linkedin.com/in/jherrerocavadas/)
 [![](Badges/Gmail.png)](mailto:jherrerocavadas@gmail.com?Subject=contato%20Github)
-
-<!--
-**Jherrerocavadas/Jherrerocavadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
